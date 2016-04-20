@@ -21,18 +21,21 @@ spam{
 strong{
   color: yellow;
 }
-div{
-  border-radius: 5px;
-  border-color: black;
-  height: 40;
-  width: 200px;
-  border: 2px;
-  text-align: center;
-  margin: auto;
-  background-color: gray;
-}
 a{
+ background-color: gray;
   color: white;
   font-size: 30px;
-  width: 40px;
+  width: 20px;
+  font-family: Verdana;
+  
 }
+table{
+  border-radius: 10px;
+  border-color: gray;
+  height: 45px;
+  width: 200px;
+  margin: auto;
+  text-align: center;
+  background-color: gray;
+}
+ 
