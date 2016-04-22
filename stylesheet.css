@@ -30,6 +30,7 @@ table{
   margin: auto;
   text-align: center;
   background-color: gray;
-  
-  
-}
+  }
+  a{
+   color: red;
+  }
